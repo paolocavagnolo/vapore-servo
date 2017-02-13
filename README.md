@@ -10,6 +10,7 @@ Programma in arduino per il controllo di una pompa che alimenta un generatore di
  - verificare di avere installate o installare le seguenti librerie:
  	- servo
  	- fastLED
+ - scaricare il [file](https://github.com/paolocavagnolo/vapore-servo/blob/master/arduino/vapore-servo/vapore-servo.ino) e aprirlo con l'arduino IDE
 
 ## modificare il software
 All'interno del ciclo LOOP ci sono in chiaro e commentati tutti i valori da cambiare per modificare i movimenti e i tempi.
