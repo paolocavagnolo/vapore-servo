@@ -1,2 +1,11 @@
 # vapore-servo
-Work for Hic ad Hoc
+Programma in arduino per il controllo di una pompa che alimenta un generatore di vapore e un servo motore che controlla un piatto che può salire o scendere sopra ad il vapore per mostrare la condensa.
+
+## setup
+ - installare arduino IDE da qui: arduino.cc
+ - collegare il cavo usb al pc
+ - impostare come scheda ARDUINO/GENUINO UNO
+ - scegliere la giusta porta USB tra quelle in elenco
+
+## modificare il software
+All'interno del ciclo LOOP ci sono in chiaro e commentati tutti i valori da cambiare per modificare i movimenti e i tempi.
